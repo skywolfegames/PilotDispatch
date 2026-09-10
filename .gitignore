@@ -10,6 +10,7 @@ dist/
 build/
 .tanstack/
 .vercel/
+.output/
 
 # Environment
 .env
